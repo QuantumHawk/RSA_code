@@ -1,0 +1,30 @@
+E:\УЧЕБА\ИжГТУ\5 курс 10 семестр\Проекты VS\RSA_code\RSA_code\bin\Debug\RSA_code.exe.config
+E:\УЧЕБА\ИжГТУ\5 курс 10 семестр\Проекты VS\RSA_code\RSA_code\bin\Debug\RSA_code.exe
+E:\УЧЕБА\ИжГТУ\5 курс 10 семестр\Проекты VS\RSA_code\RSA_code\bin\Debug\RSA_code.pdb
+E:\УЧЕБА\ИжГТУ\5 курс 10 семестр\Проекты VS\RSA_code\RSA_code\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\УЧЕБА\ИжГТУ\5 курс 10 семестр\Проекты VS\RSA_code\RSA_code\obj\x86\Debug\RSA_code.Form1.resources
+E:\УЧЕБА\ИжГТУ\5 курс 10 семестр\Проекты VS\RSA_code\RSA_code\obj\x86\Debug\RSA_code.Properties.Resources.resources
+E:\УЧЕБА\ИжГТУ\5 курс 10 семестр\Проекты VS\RSA_code\RSA_code\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\УЧЕБА\ИжГТУ\5 курс 10 семестр\Проекты VS\RSA_code\RSA_code\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\УЧЕБА\ИжГТУ\5 курс 10 семестр\Проекты VS\RSA_code\RSA_code\obj\x86\Debug\RSA_code.exe
+E:\УЧЕБА\ИжГТУ\5 курс 10 семестр\Проекты VS\RSA_code\RSA_code\obj\x86\Debug\RSA_code.pdb
+C:\Users\Дмитрий\Desktop\RSA_code\RSA_code\bin\Debug\RSA_code.exe.config
+C:\Users\Дмитрий\Desktop\RSA_code\RSA_code\obj\x86\Debug\RSA_code.exe
+C:\Users\Дмитрий\Desktop\RSA_code\RSA_code\obj\x86\Debug\RSA_code.pdb
+C:\Users\Дмитрий\Desktop\RSA_code\RSA_code\bin\Debug\RSA_code.exe
+C:\Users\Дмитрий\Desktop\RSA_code\RSA_code\bin\Debug\RSA_code.pdb
+C:\Users\Дмитрий\Desktop\RSA_code\RSA_code\obj\x86\Debug\RSA_code.Form1.resources
+C:\Users\Дмитрий\Desktop\RSA_code\RSA_code\obj\x86\Debug\RSA_code.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\RSA_code\RSA_code\obj\x86\Debug\RSA_code.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\Учеба\Инф.без\RSA_code\RSA_code\bin\Debug\RSA_code.exe.config
+C:\Users\Дмитрий\Desktop\Учеба\Инф.без\RSA_code\RSA_code\obj\x86\Debug\RSA_code.exe
+C:\Users\Дмитрий\Desktop\Учеба\Инф.без\RSA_code\RSA_code\obj\x86\Debug\RSA_code.pdb
+E:\Desktop\RSA_code\RSA_code\bin\Debug\RSA_code.exe.config
+E:\Desktop\RSA_code\RSA_code\obj\x86\Debug\RSA_code.exe
+E:\Desktop\RSA_code\RSA_code\obj\x86\Debug\RSA_code.pdb
+E:\Desktop\RSA_code\RSA_code\bin\Debug\RSA_code.exe
+E:\Desktop\RSA_code\RSA_code\bin\Debug\RSA_code.pdb
+E:\Desktop\RSA_code\RSA_code\obj\x86\Debug\RSA_code.csprojResolveAssemblyReference.cache
+E:\Desktop\RSA_code\RSA_code\obj\x86\Debug\RSA_code.Form1.resources
+E:\Desktop\RSA_code\RSA_code\obj\x86\Debug\RSA_code.Properties.Resources.resources
+E:\Desktop\RSA_code\RSA_code\obj\x86\Debug\RSA_code.csproj.GenerateResource.Cache
